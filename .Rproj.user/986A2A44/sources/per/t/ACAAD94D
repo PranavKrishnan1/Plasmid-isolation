@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1534865175635.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4177469418",
+    "id" : "ACAAD94D",
+    "lastKnownWriteTime" : 1535600918,
+    "last_content_update" : -2147483648,
+    "path" : "C:/Users/Pranav krishnan/plasmid isolation/plasmidiso.R",
+    "project_path" : "plasmidiso.R",
+    "properties" : {
+        "cursorPosition" : "5,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
